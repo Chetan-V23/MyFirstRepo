@@ -6,5 +6,5 @@ void main()
 	printf("Enter the number: ");
 	int n;
 	scanf("%d", &n);
-	printf("The number is: %d\n", n+1);
+	printf("The number is: %d\n", n+4);
 }
